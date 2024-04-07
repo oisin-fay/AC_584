@@ -1,0 +1,109 @@
+---
+title: "Refugee Insight Hub"
+subtitle: "Mapping Migration Trends 2022"
+author: "Oisin Fay"
+date: "2024-04-07"
+format:
+  html: 
+    toc: true
+    theme: cosmo
+    backgroundcolor: beige
+    highlight: github
+execute:
+  echo: false
+  warning: false
+  message: false
+  
+---
+
+```{r}
+#| label: setup
+#| include: false
+
+# libraries
+library(tidyverse)
+library(plotly)
+
+# data
+unicef_metadata <- read_csv("unicef_metadata.csv")
+unicef_indicator_1 <- read_csv("unicef_indicator_1.csv")
+unicef_indicator_2 <- read_csv("unicef_indicator_2.csv")
+Continents <- read_csv("Continents.csv")
+
+# transformations
+data_join <- unicef_metadata %>%
+  full_join(unicef_indicator_1, by = c("country", "year" = "time_period")) %>%
+  full_join(unicef_indicator_2, by = c("country", "year" = "time_period")) %>%
+  full_join(Continents, by = c("country"))
+```
+### Introduction
+
+Welcome to the **Refugee Insight Hub**, your go-to resource for understanding ***refugee trends*** in 2022. Explore data-driven insights and visualisations to grasp the distribution of ***displaced populations worldwide***. From regional breakdowns to demographic analyses, this dashboard provides a comprehensive snapshot of the ***global refugee crisis***, empowering stakeholders to make informed decisions and ***drive meaningful change***.
+
+### Refugee concentration map
+```{r}
+#| fig-cap: "The map highlights stark differences in the number of **refugees per 1000** people hosted by each country in 2022. Countries like **Lebanon**, **Jordan**, and **Turkey** bear a disproportionate burden, while others have lower ratios. This underscores the need for *global solidarity and support* to address the challenges faced by refugee-hosting countries and their communities."
+
+map_world <- map_data("world")
+
+map_data_join <- full_join(unicef_indicator_2, map_world, by = c("country" = "region"))
+
+ggplot(map_data_join) +
+  aes(x = long, y = lat, group = group, fill = obs_value) +
+  geom_polygon(color = "black", linewidth = 0.2) +
+  scale_fill_gradient(name = "refugees per 1000", low = "lightblue", high = "darkblue") +
+  labs(title = "Refugee Concentration 2022", x = "longitude", y = "latitude") +
+  theme_light() +
+  theme(text = element_text(family = "serif"))
+```
+
+### Life expectancy development and hosting refugees
+```{r}
+#| fig-cap: "you would think countries with *higher refugee hosting rates* tend to have *lower life expectancy*, possibly indicative of strained healthcare systems or socio-economic challenges exacerbated by refugee influxes. However, this highlights instances where countries ***succesfully manage*** both ***high refugee populations*** and ***comparatively high life expectancies*** with **9** of the top 10 countries in refugees per 100 boasting a life expectancy ***above the world average of 72.27***"
+
+timeseries_plot_1 <- data_join %>%
+  ggplot() +
+  aes(year, LifeExp , group = country, colour = continent) +
+  geom_line() +
+  labs( title = "Life Expectancy over time", x = "Year", y = "Life expectancy") +
+  scale_color_discrete( name = "continent") +
+  theme_light() +
+  theme(text = element_text(family = "serif"))
+
+ggplotly(timeseries_plot_1)
+```
+
+### Interplay of GDP per capita and life expectancy
+```{r}
+#| fig-cap: "The analysis examines the dynamic relationship between ***life expectancy*** and ***GDP per capita over time***. Through a longitudinal exploration spanning multiple decades, the study reveals the evolving trends in life expectancy and economic prosperity across various regions. By juxtaposing the trajectories of life expectancy and GDP per capita, the study offers insights into the interplay between *socioeconomic development* and *population health*, shedding light on the complex factors **influencing longevity and prosperity within societies**."
+
+ggplot(data_join) +
+  aes(GDP, LifeExp, color = continent, size = Population) +
+  geom_point(alpha = 0.2) +
+  facet_wrap(~ year) +
+  scale_x_continuous(limits = c(0,50000), breaks = c(20000,40000), labels = scales::unit_format(unit = "k", scale = 0.001)) +
+  labs(x = "GDP per capita", y = "Life expectancy", title = "Evolution of the relationship between GDP per capita and life expectancy") +
+  guides (color = "none", size = "none") +
+  theme_light() +
+  theme(text = element_text(family = "serif"))
+```
+  
+### Refugee hosting rates by continent   
+```{r}
+#| fig-cap: "The bar chart illustrates the number of refugees per 1000 individuals hosted by ***each continent***, providing a comparative view of refugee hosting across different regions of the world. By displaying the magnitude of refugee populations relative to the total population of each continent, the chart highlights the varying degrees of *refugee influx* and the *corresponding burden* on host countries. This visual representation offers valuable insights into the **distribution of refugee populations globally** and informs discussions surrounding **international migration, humanitarian aid, and refugee resettlement policies**."
+
+data_join %>% 
+  group_by(continent, year) %>%
+  summarise(m_obs_value.y = mean(obs_value.y, na.rm = TRUE)) %>%
+  ggplot() +
+  aes(reorder(continent, m_obs_value.y), m_obs_value.y, fill = continent) +
+  geom_col() +
+  labs(x = "", y = "Average refugees per 1000", fill = "continent", title = "Most refugees hosted by continent") +
+  theme_light() +
+  theme(text = element_text(family = "serif")) +
+  scale_fill_manual(values = c("red", "purple", "pink", "blue", "turquoise", "white"))
+```
+
+### Conclusion
+In summary, this dashboard offers vital insights into **global displacement patterns**. It underscores the importance of *international collaboration* and *humanitarian support* to address the challenges faced housing refugees. By leveraging this data, stakeholders can work towards ***ensuring the safety of displaced populations worldwide***.
+

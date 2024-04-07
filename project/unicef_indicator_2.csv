@@ -1,0 +1,187 @@
+country,alpha_2_code,alpha_3_code,numeric_code,indicator,time_period,obs_value,sex,unit_multiplier,unit_of_measure,observation_status,observation_confidentaility,time_period_activity_related_to_when_the_data_are_collected,current_age
+Afghanistan,AF,AFG,4,"Refugees by host country, per 1000 population",2022,1,Total,,Per 1000,,,,Total
+Albania,AL,ALB,8,"Refugees by host country, per 1000 population",2022,1,Total,,Per 1000,,,,Total
+Algeria,DZ,DZA,12,"Refugees by host country, per 1000 population",2022,2,Total,,Per 1000,,,,Total
+Angola,AO,AGO,24,"Refugees by host country, per 1000 population",2022,1,Total,,Per 1000,,,,Total
+Anguilla,AI,AIA,660,"Refugees by host country, per 1000 population",2022,0,Total,,Per 1000,,,,Total
+Antigua and Barbuda,AG,ATG,28,"Refugees by host country, per 1000 population",2022,0,Total,,Per 1000,,,,Total
+Argentina,AR,ARG,32,"Refugees by host country, per 1000 population",2022,4,Total,,Per 1000,,,,Total
+Armenia,AM,ARM,51,"Refugees by host country, per 1000 population",2022,12,Total,,Per 1000,,,,Total
+Aruba,AW,ABW,533,"Refugees by host country, per 1000 population",2022,160,Total,,Per 1000,,,,Total
+Australia,AU,AUS,36,"Refugees by host country, per 1000 population",2022,2,Total,,Per 1000,,,,Total
+Austria,AT,AUT,40,"Refugees by host country, per 1000 population",2022,29,Total,,Per 1000,,,,Total
+Azerbaijan,AZ,AZE,31,"Refugees by host country, per 1000 population",2022,1,Total,,Per 1000,,,,Total
+Bahamas,BS,BHS,44,"Refugees by host country, per 1000 population",2022,0,Total,,Per 1000,,,,Total
+Bahrain,BH,BHR,48,"Refugees by host country, per 1000 population",2022,0,Total,,Per 1000,,,,Total
+Bangladesh,BD,BGD,50,"Refugees by host country, per 1000 population",2022,6,Total,,Per 1000,,,,Total
+Belarus,BY,BLR,112,"Refugees by host country, per 1000 population",2022,2,Total,,Per 1000,,,,Total
+Belgium,BE,BEL,56,"Refugees by host country, per 1000 population",2022,13,Total,,Per 1000,,,,Total
+Belize,BZ,BLZ,84,"Refugees by host country, per 1000 population",2022,0,Total,,Per 1000,,,,Total
+Benin,BJ,BEN,204,"Refugees by host country, per 1000 population",2022,0,Total,,Per 1000,,,,Total
+"Bolivia, Plurinational State of",BO,BOL,68,"Refugees by host country, per 1000 population",2022,1,Total,,Per 1000,,,,Total
+Bolivia,BO,BOL,68,"Refugees by host country, per 1000 population",2022,1,Total,,Per 1000,,,,Total
+Bosnia and Herzegovina,BA,BIH,70,"Refugees by host country, per 1000 population",2022,0,Total,,Per 1000,,,,Total
+Botswana,BW,BWA,72,"Refugees by host country, per 1000 population",2022,0,Total,,Per 1000,,,,Total
+Brazil,BR,BRA,76,"Refugees by host country, per 1000 population",2022,2,Total,,Per 1000,,,,Total
+Brunei Darussalam,BN,BRN,96,"Refugees by host country, per 1000 population",2022,0,Total,,Per 1000,,,,Total
+Brunei,BN,BRN,96,"Refugees by host country, per 1000 population",2022,0,Total,,Per 1000,,,,Total
+Bulgaria,BG,BGR,100,"Refugees by host country, per 1000 population",2022,26,Total,,Per 1000,,,,Total
+Burkina Faso,BF,BFA,854,"Refugees by host country, per 1000 population",2022,2,Total,,Per 1000,,,,Total
+Burundi,BI,BDI,108,"Refugees by host country, per 1000 population",2022,7,Total,,Per 1000,,,,Total
+Cape Verde,CV,CPV,132,"Refugees by host country, per 1000 population",2022,0,Total,,Per 1000,,,,Total
+Cambodia,KH,KHM,116,"Refugees by host country, per 1000 population",2022,0,Total,,Per 1000,,,,Total
+Cameroon,CM,CMR,120,"Refugees by host country, per 1000 population",2022,17,Total,,Per 1000,,,,Total
+Canada,CA,CAN,124,"Refugees by host country, per 1000 population",2022,4,Total,,Per 1000,,,,Total
+Cayman Islands,KY,CYM,136,"Refugees by host country, per 1000 population",2022,1,Total,,Per 1000,,,,Total
+Central African Republic,CF,CAF,140,"Refugees by host country, per 1000 population",2022,2,Total,,Per 1000,,,,Total
+Chad,TD,TCD,148,"Refugees by host country, per 1000 population",2022,33,Total,,Per 1000,,,,Total
+Chile,CL,CHL,152,"Refugees by host country, per 1000 population",2022,22,Total,,Per 1000,,,,Total
+China,CN,CHN,156,"Refugees by host country, per 1000 population",2022,0,Total,,Per 1000,,,,Total
+Hong Kong,HK,HKG,344,"Refugees by host country, per 1000 population",2022,0,Total,,Per 1000,,,,Total
+Colombia,CO,COL,170,"Refugees by host country, per 1000 population",2022,47,Total,,Per 1000,,,,Total
+Comoros,KM,COM,174,"Refugees by host country, per 1000 population",2022,0,Total,,Per 1000,,,,Total
+Congo,CG,COG,178,"Refugees by host country, per 1000 population",2022,7,Total,,Per 1000,,,,Total
+Costa Rica,CR,CRI,188,"Refugees by host country, per 1000 population",2022,6,Total,,Per 1000,,,,Total
+Croatia,HR,HRV,191,"Refugees by host country, per 1000 population",2022,5,Total,,Per 1000,,,,Total
+Cuba,CU,CUB,192,"Refugees by host country, per 1000 population",2022,0,Total,,Per 1000,,,,Total
+Cyprus,CY,CYP,196,"Refugees by host country, per 1000 population",2022,23,Total,,Per 1000,,,,Total
+Czech Republic,CZ,CZE,203,"Refugees by host country, per 1000 population",2022,41,Total,,Per 1000,,,,Total
+Côte d'Ivoire,CI,CIV,384,"Refugees by host country, per 1000 population",2022,0,Total,,Per 1000,,,,Total
+Ivory Coast,CI,CIV,384,"Refugees by host country, per 1000 population",2022,0,Total,,Per 1000,,,,Total
+"Congo, the Democratic Republic of the",CD,COD,180,"Refugees by host country, per 1000 population",2022,5,Total,,Per 1000,,,,Total
+Denmark,DK,DNK,208,"Refugees by host country, per 1000 population",2022,12,Total,,Per 1000,,,,Total
+Djibouti,DJ,DJI,262,"Refugees by host country, per 1000 population",2022,18,Total,,Per 1000,,,,Total
+Dominican Republic,DO,DOM,214,"Refugees by host country, per 1000 population",2022,10,Total,,Per 1000,,,,Total
+Ecuador,EC,ECU,218,"Refugees by host country, per 1000 population",2022,31,Total,,Per 1000,,,,Total
+Egypt,EG,EGY,818,"Refugees by host country, per 1000 population",2022,3,Total,,Per 1000,,,,Total
+El Salvador,SV,SLV,222,"Refugees by host country, per 1000 population",2022,0,Total,,Per 1000,,,,Total
+Eritrea,ER,ERI,232,"Refugees by host country, per 1000 population",2022,0,Total,,Per 1000,,,,Total
+Estonia,EE,EST,233,"Refugees by host country, per 1000 population",2022,31,Total,,Per 1000,,,,Total
+Swaziland,SZ,SWZ,748,"Refugees by host country, per 1000 population",2022,1,Total,,Per 1000,,,,Total
+Ethiopia,ET,ETH,231,"Refugees by host country, per 1000 population",2022,7,Total,,Per 1000,,,,Total
+Fiji,FJ,FJI,242,"Refugees by host country, per 1000 population",2022,0,Total,,Per 1000,,,,Total
+Finland,FI,FIN,246,"Refugees by host country, per 1000 population",2022,13,Total,,Per 1000,,,,Total
+France,FR,FRA,250,"Refugees by host country, per 1000 population",2022,9,Total,,Per 1000,,,,Total
+Gabon,GA,GAB,266,"Refugees by host country, per 1000 population",2022,0,Total,,Per 1000,,,,Total
+Gambia,GM,GMB,270,"Refugees by host country, per 1000 population",2022,1,Total,,Per 1000,,,,Total
+Georgia,GE,GEO,268,"Refugees by host country, per 1000 population",2022,7,Total,,Per 1000,,,,Total
+Germany,DE,DEU,276,"Refugees by host country, per 1000 population",2022,25,Total,,Per 1000,,,,Total
+Ghana,GH,GHA,288,"Refugees by host country, per 1000 population",2022,0,Total,,Per 1000,,,,Total
+Greece,GR,GRC,300,"Refugees by host country, per 1000 population",2022,15,Total,,Per 1000,,,,Total
+Grenada,GD,GRD,308,"Refugees by host country, per 1000 population",2022,0,Total,,Per 1000,,,,Total
+Guatemala,GT,GTM,320,"Refugees by host country, per 1000 population",2022,0,Total,,Per 1000,,,,Total
+Guinea,GN,GIN,324,"Refugees by host country, per 1000 population",2022,0,Total,,Per 1000,,,,Total
+Guinea-Bissau,GW,GNB,624,"Refugees by host country, per 1000 population",2022,0,Total,,Per 1000,,,,Total
+Guyana,GY,GUY,328,"Refugees by host country, per 1000 population",2022,24,Total,,Per 1000,,,,Total
+Honduras,HN,HND,340,"Refugees by host country, per 1000 population",2022,0,Total,,Per 1000,,,,Total
+Hungary,HU,HUN,348,"Refugees by host country, per 1000 population",2022,4,Total,,Per 1000,,,,Total
+Iceland,IS,ISL,352,"Refugees by host country, per 1000 population",2022,14,Total,,Per 1000,,,,Total
+India,IN,IND,356,"Refugees by host country, per 1000 population",2022,0,Total,,Per 1000,,,,Total
+Indonesia,ID,IDN,360,"Refugees by host country, per 1000 population",2022,0,Total,,Per 1000,,,,Total
+"Iran, Islamic Republic of",IR,IRN,364,"Refugees by host country, per 1000 population",2022,39,Total,,Per 1000,,,,Total
+Iraq,IQ,IRQ,368,"Refugees by host country, per 1000 population",2022,6,Total,,Per 1000,,,,Total
+Ireland,IE,IRL,372,"Refugees by host country, per 1000 population",2022,16,Total,,Per 1000,,,,Total
+Israel,IL,ISR,376,"Refugees by host country, per 1000 population",2022,0,Total,,Per 1000,,,,Total
+Italy,IT,ITA,380,"Refugees by host country, per 1000 population",2022,5,Total,,Per 1000,,,,Total
+Jamaica,JM,JAM,388,"Refugees by host country, per 1000 population",2022,0,Total,,Per 1000,,,,Total
+Japan,JP,JPN,392,"Refugees by host country, per 1000 population",2022,0,Total,,Per 1000,,,,Total
+Jordan,JO,JOR,400,"Refugees by host country, per 1000 population",2022,62,Total,,Per 1000,,,,Total
+Kazakhstan,KZ,KAZ,398,"Refugees by host country, per 1000 population",2022,0,Total,,Per 1000,,,,Total
+Kenya,KE,KEN,404,"Refugees by host country, per 1000 population",2022,9,Total,,Per 1000,,,,Total
+Kuwait,KW,KWT,414,"Refugees by host country, per 1000 population",2022,0,Total,,Per 1000,,,,Total
+Kyrgyzstan,KG,KGZ,417,"Refugees by host country, per 1000 population",2022,0,Total,,Per 1000,,,,Total
+Latvia,LV,LVA,428,"Refugees by host country, per 1000 population",2022,21,Total,,Per 1000,,,,Total
+Lebanon,LB,LBN,422,"Refugees by host country, per 1000 population",2022,149,Total,,Per 1000,,,,Total
+Lesotho,LS,LSO,426,"Refugees by host country, per 1000 population",2022,0,Total,,Per 1000,,,,Total
+Liberia,LR,LBR,430,"Refugees by host country, per 1000 population",2022,0,Total,,Per 1000,,,,Total
+Libyan Arab Jamahiriya,LY,LBY,434,"Refugees by host country, per 1000 population",2022,0,Total,,Per 1000,,,,Total
+Libya,LY,LBY,434,"Refugees by host country, per 1000 population",2022,0,Total,,Per 1000,,,,Total
+Liechtenstein,LI,LIE,438,"Refugees by host country, per 1000 population",2022,13,Total,,Per 1000,,,,Total
+Lithuania,LT,LTU,440,"Refugees by host country, per 1000 population",2022,25,Total,,Per 1000,,,,Total
+Luxembourg,LU,LUX,442,"Refugees by host country, per 1000 population",2022,18,Total,,Per 1000,,,,Total
+Madagascar,MG,MDG,450,"Refugees by host country, per 1000 population",2022,0,Total,,Per 1000,,,,Total
+Malawi,MW,MWI,454,"Refugees by host country, per 1000 population",2022,2,Total,,Per 1000,,,,Total
+Malaysia,MY,MYS,458,"Refugees by host country, per 1000 population",2022,4,Total,,Per 1000,,,,Total
+Mali,ML,MLI,466,"Refugees by host country, per 1000 population",2022,3,Total,,Per 1000,,,,Total
+Malta,MT,MLT,470,"Refugees by host country, per 1000 population",2022,21,Total,,Per 1000,,,,Total
+Mauritania,MR,MRT,478,"Refugees by host country, per 1000 population",2022,21,Total,,Per 1000,,,,Total
+Mexico,MX,MEX,484,"Refugees by host country, per 1000 population",2022,1,Total,,Per 1000,,,,Total
+Monaco,MC,MCO,492,"Refugees by host country, per 1000 population",2022,0,Total,,Per 1000,,,,Total
+Mongolia,MN,MNG,496,"Refugees by host country, per 1000 population",2022,0,Total,,Per 1000,,,,Total
+Montenegro,ME,MNE,499,"Refugees by host country, per 1000 population",2022,52,Total,,Per 1000,,,,Total
+Morocco,MA,MAR,504,"Refugees by host country, per 1000 population",2022,0,Total,,Per 1000,,,,Total
+Mozambique,MZ,MOZ,508,"Refugees by host country, per 1000 population",2022,0,Total,,Per 1000,,,,Total
+Myanmar,MM,MMR,104,"Refugees by host country, per 1000 population",2022,0,Total,,Per 1000,,,,Total
+Burma,MM,MMR,104,"Refugees by host country, per 1000 population",2022,0,Total,,Per 1000,,,,Total
+Namibia,,NAM,516,"Refugees by host country, per 1000 population",2022,2,Total,,Per 1000,,,,Total
+Nauru,NR,NRU,520,"Refugees by host country, per 1000 population",2022,4,Total,,Per 1000,,,,Total
+Nepal,NP,NPL,524,"Refugees by host country, per 1000 population",2022,1,Total,,Per 1000,,,,Total
+Netherlands,NL,NLD,528,"Refugees by host country, per 1000 population",2022,12,Total,,Per 1000,,,,Total
+New Zealand,NZ,NZL,554,"Refugees by host country, per 1000 population",2022,0,Total,,Per 1000,,,,Total
+Nicaragua,NI,NIC,558,"Refugees by host country, per 1000 population",2022,0,Total,,Per 1000,,,,Total
+Niger,NE,NER,562,"Refugees by host country, per 1000 population",2022,10,Total,,Per 1000,,,,Total
+Nigeria,NG,NGA,566,"Refugees by host country, per 1000 population",2022,0,Total,,Per 1000,,,,Total
+"Macedonia, the former Yugoslav Republic of",MK,MKD,807,"Refugees by host country, per 1000 population",2022,0,Total,,Per 1000,,,,Total
+Norway,NO,NOR,578,"Refugees by host country, per 1000 population",2022,14,Total,,Per 1000,,,,Total
+Oman,OM,OMN,512,"Refugees by host country, per 1000 population",2022,0,Total,,Per 1000,,,,Total
+Pakistan,PK,PAK,586,"Refugees by host country, per 1000 population",2022,7,Total,,Per 1000,,,,Total
+Panama,PA,PAN,591,"Refugees by host country, per 1000 population",2022,34,Total,,Per 1000,,,,Total
+Papua New Guinea,PG,PNG,598,"Refugees by host country, per 1000 population",2022,1,Total,,Per 1000,,,,Total
+Paraguay,PY,PRY,600,"Refugees by host country, per 1000 population",2022,1,Total,,Per 1000,,,,Total
+Peru,PE,PER,604,"Refugees by host country, per 1000 population",2022,29,Total,,Per 1000,,,,Total
+Philippines,PH,PHL,608,"Refugees by host country, per 1000 population",2022,0,Total,,Per 1000,,,,Total
+Poland,PL,POL,616,"Refugees by host country, per 1000 population",2022,24,Total,,Per 1000,,,,Total
+Portugal,PT,PRT,620,"Refugees by host country, per 1000 population",2022,6,Total,,Per 1000,,,,Total
+Qatar,QA,QAT,634,"Refugees by host country, per 1000 population",2022,0,Total,,Per 1000,,,,Total
+"Korea, Republic of",KR,KOR,410,"Refugees by host country, per 1000 population",2022,0,Total,,Per 1000,,,,Total
+South Korea,KR,KOR,410,"Refugees by host country, per 1000 population",2022,0,Total,,Per 1000,,,,Total
+"Moldova, Republic of",MD,MDA,498,"Refugees by host country, per 1000 population",2022,32,Total,,Per 1000,,,,Total
+Romania,RO,ROU,642,"Refugees by host country, per 1000 population",2022,5,Total,,Per 1000,,,,Total
+Russian Federation,RU,RUS,643,"Refugees by host country, per 1000 population",2022,9,Total,,Per 1000,,,,Total
+Russia,RU,RUS,643,"Refugees by host country, per 1000 population",2022,9,Total,,Per 1000,,,,Total
+Rwanda,RW,RWA,646,"Refugees by host country, per 1000 population",2022,9,Total,,Per 1000,,,,Total
+Saint Kitts and Nevis,KN,KNA,659,"Refugees by host country, per 1000 population",2022,0,Total,,Per 1000,,,,Total
+Saint Vincent and the Grenadines,VC,VCT,670,"Refugees by host country, per 1000 population",2022,0,Total,,Per 1000,,,,Total
+Saint Vincent & the Grenadines,VC,VCT,670,"Refugees by host country, per 1000 population",2022,0,Total,,Per 1000,,,,Total
+St. Vincent and the Grenadines,VC,VCT,670,"Refugees by host country, per 1000 population",2022,0,Total,,Per 1000,,,,Total
+Saudi Arabia,SA,SAU,682,"Refugees by host country, per 1000 population",2022,0,Total,,Per 1000,,,,Total
+Senegal,SN,SEN,686,"Refugees by host country, per 1000 population",2022,1,Total,,Per 1000,,,,Total
+Serbia,RS,SRB,688,"Refugees by host country, per 1000 population",2022,4,Total,,Per 1000,,,,Total
+Sierra Leone,SL,SLE,694,"Refugees by host country, per 1000 population",2022,0,Total,,Per 1000,,,,Total
+Singapore,SG,SGP,702,"Refugees by host country, per 1000 population",2022,0,Total,,Per 1000,,,,Total
+Slovakia,SK,SVK,703,"Refugees by host country, per 1000 population",2022,17,Total,,Per 1000,,,,Total
+Slovenia,SI,SVN,705,"Refugees by host country, per 1000 population",2022,4,Total,,Per 1000,,,,Total
+Solomon Islands,SB,SLB,90,"Refugees by host country, per 1000 population",2022,0,Total,,Per 1000,,,,Total
+Somalia,SO,SOM,706,"Refugees by host country, per 1000 population",2022,1,Total,,Per 1000,,,,Total
+South Africa,ZA,ZAF,710,"Refugees by host country, per 1000 population",2022,1,Total,,Per 1000,,,,Total
+South Sudan,SS,SSD,728,"Refugees by host country, per 1000 population",2022,28,Total,,Per 1000,,,,Total
+Spain,ES,ESP,724,"Refugees by host country, per 1000 population",2022,7,Total,,Per 1000,,,,Total
+Sri Lanka,LK,LKA,144,"Refugees by host country, per 1000 population",2022,0,Total,,Per 1000,,,,Total
+Sudan,SD,SDN,736,"Refugees by host country, per 1000 population",2022,23,Total,,Per 1000,,,,Total
+Suriname,SR,SUR,740,"Refugees by host country, per 1000 population",2022,0,Total,,Per 1000,,,,Total
+Sweden,SE,SWE,752,"Refugees by host country, per 1000 population",2022,26,Total,,Per 1000,,,,Total
+Switzerland,CH,CHE,756,"Refugees by host country, per 1000 population",2022,21,Total,,Per 1000,,,,Total
+Syrian Arab Republic,SY,SYR,760,"Refugees by host country, per 1000 population",2022,1,Total,,Per 1000,,,,Total
+Tajikistan,TJ,TJK,762,"Refugees by host country, per 1000 population",2022,1,Total,,Per 1000,,,,Total
+Thailand,TH,THA,764,"Refugees by host country, per 1000 population",2022,1,Total,,Per 1000,,,,Total
+Togo,TG,TGO,768,"Refugees by host country, per 1000 population",2022,1,Total,,Per 1000,,,,Total
+Trinidad and Tobago,TT,TTO,780,"Refugees by host country, per 1000 population",2022,11,Total,,Per 1000,,,,Total
+Tunisia,TN,TUN,788,"Refugees by host country, per 1000 population",2022,0,Total,,Per 1000,,,,Total
+Turkmenistan,TM,TKM,795,"Refugees by host country, per 1000 population",2022,0,Total,,Per 1000,,,,Total
+Turks and Caicos Islands,TC,TCA,796,"Refugees by host country, per 1000 population",2022,0,Total,,Per 1000,,,,Total
+Turkey,TR,TUR,792,"Refugees by host country, per 1000 population",2022,42,Total,,Per 1000,,,,Total
+Uganda,UG,UGA,800,"Refugees by host country, per 1000 population",2022,31,Total,,Per 1000,,,,Total
+Ukraine,UA,UKR,804,"Refugees by host country, per 1000 population",2022,0,Total,,Per 1000,,,,Total
+United Arab Emirates,AE,ARE,784,"Refugees by host country, per 1000 population",2022,0,Total,,Per 1000,,,,Total
+United Kingdom,GB,GBR,826,"Refugees by host country, per 1000 population",2022,5,Total,,Per 1000,,,,Total
+"Tanzania, United Republic of",TZ,TZA,834,"Refugees by host country, per 1000 population",2022,3,Total,,Per 1000,,,,Total
+United States,US,USA,840,"Refugees by host country, per 1000 population",2022,1,Total,,Per 1000,,,,Total
+Uruguay,UY,URY,858,"Refugees by host country, per 1000 population",2022,7,Total,,Per 1000,,,,Total
+Uzbekistan,UZ,UZB,860,"Refugees by host country, per 1000 population",2022,0,Total,,Per 1000,,,,Total
+"Venezuela, Bolivarian Republic of",VE,VEN,862,"Refugees by host country, per 1000 population",2022,1,Total,,Per 1000,,,,Total
+Venezuela,VE,VEN,862,"Refugees by host country, per 1000 population",2022,1,Total,,Per 1000,,,,Total
+Viet Nam,VN,VNM,704,"Refugees by host country, per 1000 population",2022,0,Total,,Per 1000,,,,Total
+Vietnam,VN,VNM,704,"Refugees by host country, per 1000 population",2022,0,Total,,Per 1000,,,,Total
+Yemen,YE,YEM,887,"Refugees by host country, per 1000 population",2022,2,Total,,Per 1000,,,,Total
+Zambia,ZM,ZMB,894,"Refugees by host country, per 1000 population",2022,3,Total,,Per 1000,,,,Total
+Zimbabwe,ZW,ZWE,716,"Refugees by host country, per 1000 population",2022,1,Total,,Per 1000,,,,Total
